@@ -1,0 +1,66 @@
+.categories{
+    background-color: gray;
+    margin-right: 85%;
+    height: 1080px;
+    
+}
+h1{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.upper-header{
+    height: 25px;
+    background-color: rgb(75, 75, 75);
+    
+}
+.copyright-text{
+    color: white;
+    text-align: center;
+}
+.comparison-text{
+    font-size: 55px;
+}
+div.content{
+    height: 500px;
+    width: 500px;
+    border: 5px solid orange;
+    display: inline-block;
+    margin: 220px;
+    margin-top:55px;
+    margin-bottom: 30px;
+}
+.footer{
+    background-color: rgb(75, 75, 75);
+    height: 200px;
+    margin-top: 130px;
+    
+}
+.footer-info
+{
+    
+    text-align: center;
+    color: honeydew;
+    font-size: 50px;
+}
+
+
+
+/* .comparison-window-one{
+    background-color: whitesmoke;
+    width: 500px;
+    margin-left:400px;
+    height: 500px;
+    border: orange 6px solid;
+
+}
+.comparison-window-two{
+    background-color: whitesmoke;
+    width: 500px;
+    margin-left:1200px;
+    margin-top: 50px;
+    height: 500px;
+    border: orange 6px solid;
+
+} */
+
